@@ -32,7 +32,7 @@ python FlaskPhishing.py
 
 
 ## 其它
-- 本项目使用了开源项目zphisher(https://github.com/htr-tech/zphisher)的部分网站html,并进行了修改和添加,如有侵权可联系我删除
+- 本项目使用了开源项目 zphisher(:https://github.com/htr-tech/zphisher") 的部分网站html,并进行了修改和添加,如有侵权可联系我删除
 - 本项目若发现有bug ,请自行修改,也可以给我反馈
 - 本项目适用于windows,其它系统不保证能正常使用
 - 本项目纯粹写着玩,积累开发经验,我知道有很多更好的作品,比我写的好多了
